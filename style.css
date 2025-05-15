@@ -8,3 +8,10 @@ p{
     font-size: 100px;
     font-weight: 700;
 }
+h2{
+    color: blueviolet;
+    background-color: wheat;
+    font-size: 130px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
